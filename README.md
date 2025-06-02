@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I code websites and apps—basically a full-stack ninja in training!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
