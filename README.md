@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey 👋, I'm Vishal Purushothaman</h1>
 
 <h3 align="center">
@@ -5,7 +6,7 @@
 </h3>
 
 <p align="center">
-  Crafting clean, scalable & modern web/mobile experiences 🚀
+  Crafting clean, scalable & modern digital experiences 🚀
 </p>
 
 ---
@@ -16,29 +17,34 @@
     alt="coding gif"
     width="480"
     height="302"
+    style="border-radius:14px;"
   />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishal-git-dot&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vishal-git-dot&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" />
 </p>
 
 ---
 
 # 💫 About Me
 
+<img align="right" alt="coding" width="230" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
 - 🌱 Currently learning **React.js, Node.js, Flutter, React Native & Figma**
 - 💻 Building modern web & mobile applications
 - 🤖 Exploring **Machine Learning & AI**
 - 🎨 Passionate about clean UI/UX design
 - 💬 Ask me about  
-  **HTML • CSS • JavaScript • Python • Android • Django**
-- 📫 Reach me at:  
+  **HTML • CSS • JavaScript • Python • Django • Android**
+- 📫 Reach me at  
   **itsmevishal25@gmail.com**
-- ⚡ Fun Fact:  
+- ⚡ Fun Fact  
   *Full-stack ninja in training 🥷*
+
+<br><br>
 
 ---
 
@@ -55,7 +61,7 @@
 ## ⚙️ Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,react,laravel,django,flask,firebase,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,laravel,django,flask,firebase,mongodb,mysql" />
 </p>
 
 ---
@@ -63,13 +69,19 @@
 ## 🤖 AI / ML Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
 </p>
 
 <p align="center">
 
-`NumPy` • `Pandas` • `SciPy` • `Seaborn` • `Matplotlib` • `Scikit-Learn` • `Machine Learning`
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
 
 </p>
 
@@ -82,10 +94,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+
 </p>
 
 ---
@@ -93,30 +107,29 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=vishal-git-dot&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
-    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishal-git-dot&theme=tokyonight"
+    width="95%"
   />
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-git-dot&theme=tokyonight&hide_border=true&border_radius=12"
-    height="170"
-  />
-
 </p>
 
----
-
-# 📈 Most Used Languages
-
 <p align="center">
-
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-git-dot&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
-    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishal-git-dot&theme=tokyonight"
+    height="180"
   />
 
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishal-git-dot&theme=tokyonight"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=vishal-git-dot&theme=tokyonight&hide_border=true"
+    height="190"
+  />
 </p>
 
 ---
@@ -140,10 +153,12 @@
 ---
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+</p>
 
-### 💙 Thanks for visiting my profile!
-
-⭐ *Feel free to explore my repositories and projects.*
-
+<p align="center">
+  💙 Thanks for visiting my profile!
+  <br>
+  ⭐ Feel free to explore my repositories and projects.
 </p>
 
