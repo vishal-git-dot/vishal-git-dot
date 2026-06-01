@@ -1,21 +1,8 @@
 
-<h1 align="center">Hey 👋, I'm Vishal Purushothaman</h1>
-
-<h3 align="center">
-  Full-Stack Developer • Mobile App Enthusiast • UI/UX Learner
-</h3>
-
-<p align="center">
-  Crafting clean, scalable & modern digital experiences 🚀
-</p>
-
----
-
 <p align="center">
   <img 
-    src="assets/profile.gif"
-    alt="coding gif"
-    width="480"
+    src="assets/banner.png"
+    alt="banner"
     height="302"
     style="border-radius:14px;"
   />
@@ -29,24 +16,21 @@
 
 ---
 
-# 💫 About Me
+# 🌐 Connect With Me
 
-<img align="right" alt="coding" width="230" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<p align="center">
+  <a href="https://github.com/vishal-git-dot">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
-- 🌱 Currently learning **React.js, Node.js, Flutter, React Native & Figma**
-- 💻 Building modern web & mobile applications
-- 🤖 Exploring **Machine Learning & AI**
-- 🎨 Passionate about clean UI/UX design
-- 💬 Ask me about  
-  **HTML • CSS • JavaScript • Python • Django • Android**
-- 📫 Reach me at  
-  **itsmevishal25@gmail.com**
-- ⚡ Fun Fact  
-  *Full-stack ninja in training 🥷*
+  <a href="https://linkedin.com/in/vishal-purushothaman">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<br><br>
-
----
+  <a href="mailto:itsmevishal25@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 # 🛠️ Tech Stack
 
@@ -136,23 +120,6 @@
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/vishal-git-dot">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
-  <a href="https://linkedin.com/in/vishal-purushothaman">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="mailto:itsmevishal25@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
