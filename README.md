@@ -3,8 +3,8 @@
   <img 
     src="assets/banner.png"
     alt="banner"
-    width="95%"
-    height="302"
+    width="1612"
+    height="976"
     style="border-radius:14px;"
   />
 </p>
