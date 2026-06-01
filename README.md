@@ -3,6 +3,7 @@
   <img 
     src="assets/banner.png"
     alt="banner"
+    width="95%"
     height="302"
     style="border-radius:14px;"
   />
